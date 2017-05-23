@@ -1,5 +1,7 @@
 # Django + VueJS-2 Basic Setup
 
+Please find the live app <a href="http://bivestbiz.pythonanywhere.com/"> HERE </a>
+
 This is a boilerplate project for using vuejs-2 with Django. The project was inspired by the lack of adequate documentation on the use of Django with VueJS and hardships faced by most people while trying to integrate these two frameworks. The setup can be downloaded and used as the starter settings for any Django-VueJS projects in futur.
 
 ### Features
