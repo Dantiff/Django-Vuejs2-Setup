@@ -6,7 +6,7 @@ This is a boilerplate project for using vuejs-2 with Django. The project was ins
 
 ### Features
 
-* Django backend in `./backend`
+* Django backend in `./app`
 * Vuejs (v2) frontend in `./frontend`
 * Hot-reload with vue-loader
 * eslint linter integration
