@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+{% load render_bundle from webpack_loader %}
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Django-Vue2-Setup</title>
+</head>
+<body>
+<div id="app"> Loading...</div>
+{% render_bundle 'main' %}
+</body>
+</html>
